@@ -172,7 +172,8 @@
 .card-resource-box 
 .card-image{background-color:transparent;min-height:70px;color:#fff;text-align:center}
 .card-resource-box 
-.card-image img{width:100%;max-width:100%}
+/*.card-image img{width:100%;max-width:100%}*/
+.card-image img{width:100%}
 .card-resource-box 
 /*
 .card-body{min-height:140px}
