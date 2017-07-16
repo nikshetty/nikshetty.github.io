@@ -174,9 +174,14 @@
 .card-resource-box 
 .card-image img{width:100%;max-width:100%}
 .card-resource-box 
+/*
 .card-body{min-height:140px}
 .card-body{width:90%}
 .card-body{padding:15px 20px 0}
+*/
+.card-body{min-height:70px}
+.card-body{width:90%}
+.card-body{padding:10px 10px 10px 10px}
 
 
 .card-ftr{
